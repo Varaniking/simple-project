@@ -1,3 +1,1 @@
-# simple-project
-My first repository for learning C++ language
-uwu
+I like bananas and eggs because they are most useful products to increase my musle weight
